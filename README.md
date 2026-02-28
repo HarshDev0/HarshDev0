@@ -1,5 +1,3 @@
-<img src="https://i.pinimg.com/736x/97/df/3c/97df3c5365b316b5b5655d92678b393f.jpg" width="100%"/>
-
 <!-- HEADER -->
 
 <h1 align="center">Hi, I'm Harsh (Drago)</h1>
