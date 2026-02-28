@@ -37,16 +37,17 @@ I build modern, responsive, aesthetic websites that help brands stand out.
 ### VOID — Clothing Website
 Minimal, aesthetic ecommerce frontend
 
-🔗 https://github.com/HarshDev0/Void
+🔗 https://void-apparel.netlify.app/
 
 ---
 
-### Login Webpage
-Clean responsive login UI
+### VOID - Restaurant Webpage
+Minimal, aesthetic restaurant frontend
 
-🔗 https://github.com/HarshDev0/Login-Webpage
+🔗 https://void-restaurant.netlify.app/
 
 ---
+
 
 ## 📊 GitHub Stats
 
@@ -62,8 +63,17 @@ Clean responsive login UI
 
 ## 📫 Contact Me
 
-📧 Email: dragocodes@gmail.com  
-💼 GitHub: https://github.com/HarshDev0  
+<p align="left">
+
+<a href="mailto:dragocodes@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+
+<a href="https://instagram.com/dragocodes">
+  <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+</a>
+
+</p>
 
 ---
 
