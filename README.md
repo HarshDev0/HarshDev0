@@ -14,7 +14,7 @@ I build modern, responsive, aesthetic websites that help brands stand out.
 
 ---
 
-## <img src="https://cdn.simpleicons.org/user/white" height="18"/> About Me
+## <img src="https://cdn.simpleicons.org/github/white" height="18"/> About Me
 
 • Frontend Developer (HTML, CSS, JavaScript)  
 • Focused on clean UI and premium design  
@@ -66,13 +66,13 @@ https://void-restaurant.netlify.app/
 
 ## <img src="https://cdn.simpleicons.org/maildotru/white" height="18"/> Contact
 
-<img src="https://cdn.simpleicons.org/gmail/white" height="18"/> 
-<a href="mailto:dragocodes@gmail.com">dragocodes@gmail.com</a> &nbsp;&nbsp;|&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/instagram/white" height="18"/> 
-<a href="https://instagram.com/dragocodes">instagram.com/dragocodes</a>
+<img src="https://cdn.simpleicons.org/gmail/white" height="18"/> | <a href="mailto:dragocodes@gmail.com">dragocodes@gmail.com</a> 
+
+<img src="https://cdn.simpleicons.org/instagram/white" height="18"/> | <a href="https://instagram.com/dragocodes">dragocodes</a>
 
 ---
 
-## <img src="https://cdn.simpleicons.org/codepen/white" height="18"/> Services
+## <img src="https://cdn.simpleicons.org/html5/white" height="18"/> Services
 
 • Business websites  
 • Restaurant websites  
