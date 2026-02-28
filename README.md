@@ -28,11 +28,11 @@ I build modern, responsive, aesthetic websites that help brands stand out.
 
 <p align="left">
 
-<img src="https://cdn.simpleicons.org/html5/white" height="28"/>
-<img src="https://cdn.simpleicons.org/css/white" height="28"/>
-<img src="https://cdn.simpleicons.org/javascript/white" height="28"/>
-<img src="https://cdn.simpleicons.org/github/white" height="28"/>
-<img src="https://cdn.simpleicons.org/visualstudiocode/white" height="28"/>
+<img src="https://skillicons.dev/icons?i=html" height="40"/>
+<img src="https://skillicons.dev/icons?i=css" height="40"/>
+<img src="https://skillicons.dev/icons?i=js" height="40"/>
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="40"/>
 
 </p>
 
