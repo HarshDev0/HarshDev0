@@ -8,6 +8,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=22&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Freelance+Website+Developer;Building+Modern+Websites;Available+for+Freelance" />
 </p>
 
+
 <p align="center">
 I build modern, responsive, aesthetic websites that help brands stand out.
 </p>
